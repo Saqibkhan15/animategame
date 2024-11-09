@@ -1,0 +1,28 @@
+.main{
+    background-image: url("images/streetfighteralpha2-thunderstorm-field-australia.gif");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+.character{
+    width: 121px;
+    height: 228px;
+    object-fit: cover;
+    position: absolute;
+
+    bottom: 10px;
+
+}
+
+.charactert{
+    width: 148px;
+    height: 221px;
+    object-fit: cover;
+    position: absolute;
+    bottom: 10px;
+    left: 81rem;
+}
